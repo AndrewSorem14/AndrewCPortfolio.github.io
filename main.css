@@ -6,11 +6,11 @@ body {
 }
 h1 {
 	font: 300% Arial, Helvetica, sans-serif;
-	color: gray;
+	color: yellow;
 }
 
 p {
-	color: yellow;
+	color: gray;
 }
 #wrapper {
 	width: 1100px;
